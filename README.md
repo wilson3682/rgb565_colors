@@ -1,4 +1,4 @@
-# 16-bit (rgb-565) color name definitions
+## 16-bit (rgb-565) color name definitions
 
 ------------------
 
